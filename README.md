@@ -11,7 +11,7 @@ Download processing from [the official site] (https://processing.org/). Copy/pas
 <img width="800" alt="poster_2_many_fractal_circles" src="https://user-images.githubusercontent.com/127483187/227990698-cfffc96a-5170-4ca3-8d8d-c64621271e14.png">
 
 ## Poster 3
-![Poster III](/poster_3_noise_circles.png)
+![Poster 3](/poster_3_noise_circles.png)
 <img width="800" alt="poster_3_noise_circles" src="https://user-images.githubusercontent.com/127483187/227990747-a8a733ef-ec6c-42d2-b09d-6bc845624c97.png">
 
 ## Poster 4
@@ -23,4 +23,4 @@ Download processing from [the official site] (https://processing.org/). Copy/pas
 
 ## Contacts
 * [Instagram](https://www.instagram.com/vedmegor/)
-* [Facebook]([https://www.facebook.com/zhytniakov)
+* [Facebook]([https://www.facebook.com/zhytniakov/)
