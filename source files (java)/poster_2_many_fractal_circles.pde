@@ -16,7 +16,7 @@ void draw() {
 void drawCircle(float x, float y, float radius) {
   fill(colors[int(random(colors.length))]);
   ellipse(x, y, radius, radius);
-  if (radius > 16) {
+  if (radius > 23) { //radius of circles (with small number the pattern has more circles, but it looks kind of noisy
     drawCircle(x + radius/2, y, radius/2);
     drawCircle(x - radius/2, y, radius/2);
     drawCircle(x, y + radius/2, radius/2);
