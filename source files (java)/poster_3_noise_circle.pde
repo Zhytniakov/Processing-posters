@@ -30,3 +30,7 @@ void drawCircle(float maxRad) {
   endShape(CLOSE);
   zoff+=0.03;
 }
+
+void mousePressed(){. // in this case you should save any frame you like, because animation takes a lot of time to stop. Maybe in future I will fix it
+saveFrame("###.png");
+}
