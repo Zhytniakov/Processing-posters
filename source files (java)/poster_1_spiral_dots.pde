@@ -3,7 +3,7 @@ float n=2*PI/123,
   f=0;
 
 void setup() {
-  size(1080, 1080);
+  size(1080, 1080); // for te full size try size(2480, 1750);
   background(#e4802b);
   strokeWeight(60); //size of dot
 }
