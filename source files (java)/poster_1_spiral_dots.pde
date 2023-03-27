@@ -5,7 +5,7 @@ float n=2*PI/123,
 void setup() {
   size(1080, 1080);
   background(#e4802b);
-  strokeWeight(160); //size of dot
+  strokeWeight(60); //size of dot
 }
 
 void draw() {
@@ -19,10 +19,5 @@ void draw() {
   int y= height/2+round(r*sin(f));
   point (x, y);
   f=f+n;
-  //r--;
-  r=r-0.1;
-
-  if (mousePressed == true) {
-    saveFrame("######.png");
-  }
+  r--; //the degree of reduction in the radius of the spiral. The smaller the number, the denser the circles are drawn
 }
